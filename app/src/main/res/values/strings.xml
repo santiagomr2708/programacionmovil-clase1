@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">programacionmovil-clase1</string>
+    <string name="user">Users</string>
+    <string name="btn1">Ingresar</string>
+    <string name="btn2">Login</string>
 </resources>
