@@ -1,4 +1,4 @@
-package co.nelson.appuno;
+package com.prueba.programacionmovil_clase1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
